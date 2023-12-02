@@ -1,0 +1,25 @@
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\bin\Debug\Guna.UI.dll
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.vbprojResolveAssemblyReference.cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna_UI_Activation.Form1.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna_UI_Activation.Resources.resources
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.vbproj.GenerateResource.Cache
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.exe
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.xml
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.pdb
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.exe.config
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.exe
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.pdb
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\bin\Debug\Guna UI Activation.xml
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\bin\Debug\Guna.UI.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.vbproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna_UI_Activation.Form1.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna_UI_Activation.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.vbproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.vbproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.exe
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.xml
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Guna.UI-Framework-Lib-master\Guna UI Activation\Guna UI Activation\obj\Debug\Guna UI Activation.pdb
